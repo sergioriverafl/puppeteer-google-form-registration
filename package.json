@@ -1,0 +1,22 @@
+{
+  "name": "puppeteer-google-form-registration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergioriverafl/puppeteer-google-form-registration.git"
+  },
+  "author": "sergioriverafl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergioriverafl/puppeteer-google-form-registration/issues"
+  },
+  "homepage": "https://github.com/sergioriverafl/puppeteer-google-form-registration#readme",
+  "dependencies": {
+    "puppeteer": "^14.3.0"
+  }
+}
